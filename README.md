@@ -1,4 +1,4 @@
-### ### Olá, sou o Rondineli Alonso.👋
+### Olá, sou o Rondineli Alonso.👋
 - 🌱 Estou em transição de carreira para área de Tecnologia da Informação, com foco em programação.
 - 👨‍💻 Estudo Análise e Desenvolvimento de Sistemas pala Estácio.
 - 🖥️ Obs: Sou iniciante, estou estudando as plataformas citadas abaixo. 
