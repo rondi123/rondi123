@@ -6,8 +6,8 @@
 decidi encarar esta nova jornada, mesmo já tendo adquirido loja no setor de veículos e com meus 39 anos de experiência de vida.
 <div align="center">
   <a href="https://github.com/rondi123">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rondi123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rondi123&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=rondi123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rondi123&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
