@@ -4,6 +4,7 @@
 - 🖥️ Obs: Sou iniciante, estou estudando as plataformas citadas abaixo. 
 - ⚡ Curiosidade: Embora eu seja um profissional da área comercial há mais de 10 anos, 
 decidi encarar esta nova jornada, mesmo já tendo adquirido loja no setor de veículos e com meus 39 anos de experiência de vida.
+-  📧 rondineli.alonso@hotmail.com
 <div align="center">
   <a href="https://github.com/rondi123">
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=rondi123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
